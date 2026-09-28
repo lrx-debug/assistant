@@ -1,0 +1,12 @@
+# 密钥/本地配置，禁止提交
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 本地虚拟环境
+.venv/
+
+# 向量库本地持久化
+chroma_db/

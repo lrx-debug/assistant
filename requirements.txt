@@ -1,0 +1,21 @@
+langchain>=1.0
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-chroma
+chromadb
+dashscope
+tavily-python
+python-dotenv
+# 离线数据预处理（SDD: railway_data_preprocessing_sdd.md）
+unstructured
+pandas
+SQLAlchemy
+PyMySQL
+openpyxl
+beautifulsoup4
+lxml
+# 只读数据库查询 Tool（SDD: database_query_tool_sdd.md）
+sqlglot
+# 简单 UI 界面（Gradio 流式对话）
+gradio
